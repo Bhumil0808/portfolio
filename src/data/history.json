@@ -1,0 +1,26 @@
+[
+    {
+      "role": "Frontend",
+      "startDate": "Sept, 2022",
+      "endDate": "Present",
+      "experiences": ["Crafted responsive and engaging user interfaces using HTML, CSS, and JavaScript, with React for dynamic components."],
+      "imageSrc": "history/frontend.png"
+    },
+    {
+      "role": "Backend",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Built and managed RESTful APIs with Node.js and Express.js, employing asynchronous programming (async/await) and secure authentication (JWT) to ensure robust, high-performance backend services."],
+      "imageSrc": "history/server.png"
+    },
+    {
+      "role": "Database",
+      "startDate": "Apr, 2020",
+      "endDate": "Jun, 2020",
+      "experiences": [
+        "Designed and optimized schemas for MongoDB and SQL databases, handled data migration, and implemented query optimization techniques to ensure efficient data management and performance."
+      ],
+      "imageSrc": "history/database.png"
+    }
+  ]
+  

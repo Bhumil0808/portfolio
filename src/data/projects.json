@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Voting Application",
+    "imageSrc": "projects/1.jpg",
+    "description": "Developed a blockchain-based voting application using Ethereum, ensuring secure and transparent election processes.",
+    "skills": ["Node","Solidity", "React"],
+    "demo": "/#project",
+    "source": "https://github.com/Bhumil0808/HSRP_recognition"
+  },
+    {
+      "title": "Pharma Tracker",
+      "imageSrc": "projects/2.png",
+      "description": "Developed a pharmacy tracker website using the MERN stack to help users locate medical shops for required medications.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "/#project",
+      "source": "https://github.com/Bhumil0808/Pharma_Tracker"
+    },
+    {
+      "title": "OS Algorithm Simulator",
+      "imageSrc": "projects/3.png",
+      "description": "Created a website showcasing four operating system algorithms - FIFO , Shortest Job First (SJF), Look/Clook, and Dining Philosopher. ",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://bhumil0808.github.io/Os-Algorithms-Simulator/home.html",
+      "source": "https://github.com/Bhumil0808/Os-Algorithms-Simulator"
+    }
+  ]
+  
